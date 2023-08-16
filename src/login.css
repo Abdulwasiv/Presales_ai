@@ -1,0 +1,613 @@
+.lines-bg-child13 {
+  align-self: stretch;
+  position: relative;
+  background-color: #2c2c2c;
+  width: 1px;
+}
+.lines-bg3 {
+  position: absolute;
+  top: 0;
+  left: 135px;
+  width: 1168px;
+  height: 1004px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.light1 {
+  position: absolute;
+  bottom: -808px;
+  left: calc(50% - 554px);
+  border-radius: 1000px;
+  background-color: #fac660;
+  filter: blur(500px);
+  width: 1108px;
+  height: 1108px;
+  opacity: 0.2;
+}
+.buy-now5 {
+  position: relative;
+  line-height: 24px;
+}
+.button7 {
+  border-radius: 32px;
+  background-color: #d2dae2;
+  border: 2px solid #d2dae2;
+  overflow: hidden;
+  display: flex;
+  padding: 10px 30px;
+}
+.btns1,
+.button7,
+.button8 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button8 {
+  border-radius: 32px;
+  border: 2px solid #d2dae2;
+  overflow: hidden;
+  display: flex;
+  padding: 10px 30px;
+  color: #fff;
+}
+.btns1 {
+  bottom: 950px;
+  left: calc(50% - 192px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 600px;
+  height: 127px;
+  gap: 60px;
+}
+.btns1,
+.img21,
+.lines-bg4 {
+  position: absolute;
+  display: flex;
+}
+.lines-bg4 {
+  top: 0;
+  left: 135px;
+  width: 1168px;
+  height: 1681px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.img21 {
+  top: -126px;
+  left: 899px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+}
+.weve-synthesized-the1 {
+  position: relative;
+  line-height: 32px;
+  font-weight: 300;
+  display: inline-block;
+  width: 670px;
+}
+.button9 {
+  border-radius: 32px;
+  border: 2px solid #fac660;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+}
+.info-21,
+.txt1 {
+  position: absolute;
+  left: 135px;
+}
+.txt1 {
+  top: 1141px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+  text-align: justify;
+  font-family: Inter;
+}
+.info-21 {
+  top: 432px;
+  width: 1170px;
+}
+.social-signup-child1 {
+  left: 675px;
+  background: linear-gradient(
+    180deg,
+    rgba(45, 120, 255, 0.8),
+    rgba(47, 170, 253, 0.8) 20.31%,
+    rgba(25, 94, 165, 0.8) 50.52%,
+    rgba(26, 147, 232, 0.8) 69.27%,
+    rgba(13, 78, 183, 0.8)
+  );
+  filter: blur(20px);
+  width: 45px;
+  height: 900px;
+}
+.div2,
+.login2,
+.social-signup-child1 {
+  position: absolute;
+  top: 0;
+}
+.div2 {
+  left: 0;
+  background: linear-gradient(#d2dae2, #d2dae2),
+    linear-gradient(
+      180deg,
+      #dfe6e9,
+      transparent 0.01%,
+      rgba(0, 0, 0, 0.3) 96.88%
+    );
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 720px;
+  height: 900px;
+  opacity: 0.9;
+}
+.login2 {
+  left: 54px;
+  letter-spacing: 0.15em;
+}
+.more-secure-of {
+  position: absolute;
+  width: 100%;
+  top: 55.88%;
+  left: 0;
+  font-size: 25px;
+  font-family: "Akaya Kanadaka";
+  display: inline-block;
+}
+.login-parent {
+  position: absolute;
+  top: 258px;
+  left: 226px;
+  width: 267px;
+  height: 136px;
+}
+.parent,
+.social-signup-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 720px;
+  height: 900px;
+}
+.parent {
+  overflow: hidden;
+}
+.social-signup-child2 {
+  background: linear-gradient(
+    180deg,
+    rgba(98, 98, 98, 0.79),
+    rgba(255, 255, 255, 0),
+    rgba(0, 0, 0, 0.25)
+  );
+  display: none;
+}
+.button-child2,
+.social-signup-child3 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.social-signup-child3 {
+  top: 185px;
+  left: 146px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  width: 428px;
+  height: 531px;
+  display: none;
+}
+.button-child2 {
+  height: 102.94%;
+  width: 100.26%;
+  top: -1.47%;
+  right: -0.13%;
+  bottom: -1.47%;
+  left: -0.13%;
+  border-radius: 15px;
+  background-color: #1e272e;
+  box-shadow: 2px 4px 6px rgba(79, 79, 79, 0.15);
+  border: 1px solid #ccc;
+}
+.sign-up-with3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.sign-up-with-linkedln-container {
+  position: absolute;
+  height: 52.94%;
+  width: 38.38%;
+  top: 23.53%;
+  right: 32.81%;
+  bottom: 23.53%;
+  left: 32.81%;
+}
+.button10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 384px;
+  height: 34px;
+}
+.sign-up-with-twitter-wrapper {
+  position: absolute;
+  height: 52.94%;
+  width: 38.77%;
+  top: 23.53%;
+  right: 34.11%;
+  bottom: 23.53%;
+  left: 34.11%;
+}
+.button11 {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  border-radius: 12px;
+  background-color: #1e272e;
+  width: 384px;
+  height: 34px;
+}
+.sign-up-with-facebook-container {
+  position: absolute;
+  height: 52.94%;
+  width: 38.16%;
+  top: 23.53%;
+  right: 32.55%;
+  bottom: 23.53%;
+  left: 32.29%;
+}
+.button12 {
+  position: absolute;
+  top: 138px;
+  left: 0;
+  border-radius: 15px;
+  width: 384px;
+  height: 34px;
+}
+.social-buttons1,
+.social-signup1 {
+  position: absolute;
+  top: 450px;
+  left: 168px;
+  width: 384px;
+  height: 172px;
+  font-size: 15px;
+  color: #d2dae2;
+  font-family: "Akaya Kanadaka";
+}
+.social-signup1 {
+  top: 0;
+  left: -1px;
+  width: 720px;
+  height: 900px;
+  font-size: 45px;
+  color: #1e272e;
+  font-family: "Akaya Telivigala";
+}
+.button-child5 {
+  position: absolute;
+  height: 102.94%;
+  width: 100.26%;
+  top: -1.47%;
+  right: -0.13%;
+  bottom: -1.47%;
+  left: -0.13%;
+  border-radius: 15px;
+  background-color: #d2dae2;
+  box-shadow: 2px 4px 6px rgba(79, 79, 79, 0.15);
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.sign-up-wrapper {
+  position: absolute;
+  height: 52.94%;
+  width: 14.98%;
+  top: 23.53%;
+  right: 44.79%;
+  bottom: 23.53%;
+  left: 43.23%;
+}
+.button13 {
+  position: absolute;
+  top: 624px;
+  left: 179px;
+  width: 384px;
+  height: 34px;
+  font-size: 15px;
+  color: #1e272e;
+}
+.email-child2 {
+  position: absolute;
+  top: 16.5px;
+  left: -0.5px;
+  border-radius: 2px;
+  background-color: #fff;
+  box-shadow: 2px 4px 6px rgba(79, 79, 79, 0.15);
+  border: 1px solid #d2dae2;
+  box-sizing: border-box;
+  width: 386px;
+  height: 31px;
+}
+.email7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.email6,
+.password-child1 {
+  position: absolute;
+  top: 390px;
+  left: 178px;
+  width: 385px;
+  height: 47px;
+}
+.password-child1 {
+  top: 16.5px;
+  left: -0.5px;
+  border-radius: 2px;
+  background-color: #fff;
+  box-shadow: 2px 4px 6px rgba(79, 79, 79, 0.15);
+  border: 1px solid #dfe6e9;
+  box-sizing: border-box;
+  width: 386px;
+  height: 31px;
+}
+.password5 {
+  position: absolute;
+  top: 473px;
+  left: 178px;
+  width: 385px;
+  height: 47px;
+  color: #dfe6e9;
+}
+.creating-an-account1 {
+  position: absolute;
+  top: -7px;
+  left: 17px;
+  display: inline-block;
+  width: 403px;
+}
+.frame-child4 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  background-color: #fffdfd;
+  border: 1px solid #cacaca;
+  box-sizing: border-box;
+  width: 8px;
+  height: 8px;
+}
+.creating-an-account-means-you-group {
+  position: absolute;
+  top: 558px;
+  left: 178px;
+  width: 418px;
+  height: 30px;
+  font-size: 12px;
+  color: #dfe6e9;
+}
+.get-started-absolutely1,
+.sign-up-parent {
+  position: absolute;
+  top: 71.7%;
+  left: 0;
+  font-size: 25px;
+  font-family: "Akaya Kanadaka";
+}
+.sign-up-parent {
+  top: 243px;
+  left: 209px;
+  width: 265px;
+  height: 106px;
+  font-size: 45px;
+  font-family: "Akaya Telivigala";
+}
+.normal-sign-up-child3,
+.normal-sign-up-child4 {
+  position: absolute;
+  height: 22.45%;
+  width: 27.84%;
+  top: 77.56%;
+  right: 0.08%;
+  bottom: 0;
+  left: 72.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.normal-sign-up-child4 {
+  height: 11.94%;
+  width: 28.55%;
+  top: 4.78%;
+  right: 33.5%;
+  bottom: 83.28%;
+  left: 37.95%;
+}
+.normal-sign-up-child5,
+.normal-sign-up-child6,
+.normal-sign-up-child7 {
+  position: absolute;
+  height: 16.33%;
+  width: 19.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.normal-sign-up-child5 {
+  top: 0;
+  right: 3.32%;
+  bottom: 83.67%;
+  left: 77.08%;
+  display: none;
+}
+.normal-sign-up-child6,
+.normal-sign-up-child7 {
+  top: 84.89%;
+  right: 80.4%;
+  bottom: -1.22%;
+  left: 0;
+}
+.normal-sign-up-child7 {
+  top: 0;
+  right: -0.01%;
+  bottom: 83.67%;
+  left: 80.42%;
+}
+.frame-div {
+  position: absolute;
+  top: 12px;
+  left: 445px;
+  width: 112px;
+  height: 82px;
+  overflow: hidden;
+}
+.normal-sign-up1 {
+  position: absolute;
+  top: 0;
+  left: 719px;
+  width: 720px;
+  height: 900px;
+  font-size: 14px;
+  color: #d2dae2;
+  font-family: "Akaya Kanadaka";
+}
+.experience1,
+.hero1 {
+  position: absolute;
+  left: 0;
+  background-color: #1e272e;
+  width: 1440px;
+  overflow: hidden;
+}
+.experience1 {
+  top: 0;
+  border-radius: 54px;
+  height: 1681px;
+  color: #fff;
+  font-family: Italiana;
+}
+.hero1 {
+  top: 148px;
+  height: 1004px;
+  color: #1e272e;
+}
+.button14,
+.lines-bg5 {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+}
+.button14 {
+  top: 39px;
+  left: 1130px;
+  border-radius: 32px;
+  border: 2px solid #d2dae2;
+  overflow: hidden;
+  padding: 10px 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lines-bg5 {
+  top: 0;
+  left: 135px;
+  width: 1168px;
+  height: 148px;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo-icon2 {
+  position: absolute;
+  top: 30px;
+  left: 659px;
+  width: 122px;
+  height: 88px;
+  display: none;
+}
+.about-us1 {
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+.left1 {
+  position: absolute;
+  top: 65px;
+  left: 135px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 60px;
+}
+.figma-demo1,
+.single-post1 {
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+.single-post1 {
+  display: none;
+}
+.figma-demo1 {
+  text-decoration: underline;
+}
+.right1 {
+  position: absolute;
+  top: 65px;
+  right: 135px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 60px;
+}
+.button15,
+.header1 {
+  position: absolute;
+  overflow: hidden;
+}
+.header1 {
+  top: 0;
+  left: -5px;
+  background-color: #1e272e;
+  width: 1445px;
+  height: 148px;
+  text-align: center;
+  font-size: 20px;
+  color: #dfe6e9;
+}
+.button15 {
+  top: 53px;
+  left: 923px;
+  border-radius: 32px;
+  border: 2px solid #d2dae2;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ps-22 {
+  position: relative;
+  background-color: #d2dae2;
+  width: 1440px;
+  height: 1059px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
