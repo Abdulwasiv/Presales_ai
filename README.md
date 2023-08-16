@@ -6,19 +6,19 @@
 
 <img src="https://i.ibb.co/yWx7rfC/Screenshot-from-2023-08-17-02-56-35.png" alt="project-screenshot" width="800" height="500/">
 
-<img src="https://i.ibb.co/8P1qqPg/Screenshot-from-2023-08-17-02-57-27.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/8P1qqPg/Screenshot-from-2023-08-17-02-57-27.png" alt="project-screenshot" width="800" height="500/">
 
-<img src="https://i.ibb.co/5Bcy1Nm/Screenshot-from-2023-08-17-02-58-19.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/5Bcy1Nm/Screenshot-from-2023-08-17-02-58-19.png" alt="project-screenshot" width="800" height="500/">
 
-<img src="https://i.ibb.co/MBFy6sg/Screenshot-from-2023-08-17-02-59-56.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/MBFy6sg/Screenshot-from-2023-08-17-02-59-56.png" alt="project-screenshot" width="800" height="500/">
 
-<img src="https://i.ibb.co/RY13y15/Screenshot-from-2023-08-17-03-00-46.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/RY13y15/Screenshot-from-2023-08-17-03-00-46.png" alt="project-screenshot" width="800" height="500/">
 
-<img src="https://i.ibb.co/b1DjfHD/Screenshot-from-2023-08-17-03-01-34.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/b1DjfHD/Screenshot-from-2023-08-17-03-01-34.png" alt="project-screenshot" width="800" height="500/">
 
-<img src="https://i.ibb.co/Xtk4WfV/Screenshot-from-2023-08-17-03-06-23.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/Xtk4WfV/Screenshot-from-2023-08-17-03-06-23.png" alt="project-screenshot" width="800" height="500/">
 
-<img src="https://i.ibb.co/nsDLrmx/Screenshot-from-2023-08-17-03-10-10.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/nsDLrmx/Screenshot-from-2023-08-17-03-10-10.png" alt="project-screenshot" width="800" height="500/">
 
   
   
