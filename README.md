@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Pre Sales</h1>
+<h1 align="center" id="title">Presales AI</h1>
 
 <p id="description">Presales.ai is designed to address the challenges head-on for a startup or an organization. Our AI-driven application streamlines pre-sales activities by enabling pre-sales sales and the product team to automate tasks leading to shorter TAT on proposals with maximum quality and efficiency. By enhancing the speed accuracy and efficiency of pre-sales activities Presales.ai empowers pre-sales teams to focus on what they do best and get more productivity .</p>
 
@@ -41,10 +41,10 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   Frontend: React Js
-*   Backend & Middleware : Django & python
+*   Frontend: React Js,Streamlit Python Library
+*   Backend & Middleware : Flask
 *   AI Model : LLM & Langchain & Open AI & Stream Lit
 
 <h2>💖Like my work?</h2>
 
-Software Devolpment under process
+Software Devolpment under progress
