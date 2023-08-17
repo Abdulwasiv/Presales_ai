@@ -42,6 +42,35 @@ Technologies used in the project:
 *   Backend & Middleware : Flask
 *   AI Model : LLM & Langchain & Open AI & Stream Lit
 
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. cd into backend folder</p>
+
+```
+cd backend
+```
+
+<p>2. Run backend.py</p>
+
+```
+python backend.py
+```
+
+<p>3. To give permission for react-scripts</p>
+
+```
+sudo chmod +x node_modules/.bin/react-scripts
+```
+
+```
+sudo npm run build
+```
+
+<p>5. To start the frontend server</p>
+
+```
+npm start
+```
 <h2>💖Like my work?</h2>
 
 Software Devolpment under progress
