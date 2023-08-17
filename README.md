@@ -42,6 +42,10 @@ Technologies used in the project:
 *   Backend & Middleware : Flask
 *   AI Model : LLM & Langchain & Open AI & Stream Lit
 
+<h2>Requirements:</h2>
+
+* OpenAI API Key - Place your key in .env file
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. cd into backend folder</p>
