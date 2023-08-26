@@ -78,3 +78,6 @@ npm start
 <h2>💖Like my work?</h2>
 
 Software Devolpment under progress
+
+[![Abdul-wasiv-H's GitHub | Stats](https://stats.quine.sh/Abdul-wasiv-H/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abdul-wasiv-H)
+
