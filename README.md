@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Presales AI</h1>
 
-<p id="description">Presales.ai is designed to address the challenges head-on for a startup or an organization. Our AI-driven application streamlines pre-sales activities by enabling pre-sales sales and the product team to automate tasks leading to shorter TAT on proposals with maximum quality and efficiency. By enhancing the speed accuracy and efficiency of pre-sales activities Presales.ai empowers pre-sales teams to focus on what they do best and get more productivity .</p>
+<p id="description">Presales.ai is designed to address the challenges head-on for a startup or an organization. Our AI-driven application streamlines pre-sales activities by enabling pre-sales sales and the product team to automate tasks leading to shorter TAT on proposals with maximum quality and efficiency. By enhancing the speed accuracy and efficiency of pre-sales activities Presales.ai empowers pre-sales teams to focus on what they do best and get more productivity.</p>
 
 <h2>Project Screenshots:</h2>
 <h2>Home Page:</h2>
